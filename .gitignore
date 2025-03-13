@@ -1,0 +1,8 @@
+aethorlibs.egg-info/
+build/
+data/
+dist/
+
+*.toml
+
+setup.py
